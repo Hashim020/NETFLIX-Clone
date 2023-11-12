@@ -1,0 +1,18 @@
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 60px;
+    background-color: #111;
+    padding: 0 20px;
+}
+
+.logo{
+    width: 80px;
+    cursor: pointer;
+}
+
+.avatar{
+    width: 30px;
+    cursor: pointer;
+}
